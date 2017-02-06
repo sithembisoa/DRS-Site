@@ -25,4 +25,8 @@
     box-shadow: none;
 }
 
+.btn{
+  border-radius: 0;
+}
+
 
