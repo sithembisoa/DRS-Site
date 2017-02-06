@@ -29,4 +29,16 @@
   border-radius: 0;
 }
 
+hr {
+  border-color: #428bca;
+  border-width: 3px;
+  max-width: 80px;
+}
+
+hr.small {
+  border-color: #428bca;
+  border-width: 3px;
+  max-width: 50px;
+}
+
 
